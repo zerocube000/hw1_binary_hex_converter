@@ -1,6 +1,6 @@
 # 作業1 - 將十進位數字轉換成二進位與16進位
 
-# code
+  ## code
 ```
 num2 = int(input("輸入數字0-255: "))
 num16 = num2
@@ -30,5 +30,5 @@ else:
   print("十六進位是",answer16.lstrip('0'))
 ```
 
-# 執行結果
+## 執行結果
 ![GitHub Logo](https://github.com/zerocube000/hw1_binary_hex_converter/blob/dc36ed331c6513ce9f5dbe624164efd984665360/work_pic.png)
